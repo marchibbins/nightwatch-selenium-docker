@@ -1,5 +1,13 @@
 {
-  "private": true,
+  "private": "nightwatch-selenium-docker",
+  "author": "Marc Hibbins",
+  "version": "0.1.0",
+  "description": "Run Nightwatch tests with Selenium using Docker",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "license": "ISC",
   "dependencies": {
     "nightwatch": "^0.9.11"
   }
