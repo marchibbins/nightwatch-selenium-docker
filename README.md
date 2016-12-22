@@ -7,3 +7,5 @@ Then run some tests with [Nightwatch](http://nightwatchjs.org/), or whatever.
 Run with
 
     docker-compose up -d
+    npm install
+    npm test
