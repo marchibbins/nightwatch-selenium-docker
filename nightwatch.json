@@ -1,5 +1,6 @@
 {
   "src_folders": ["tests"],
+  "output_folder": false,
   "test_settings": {
     "default": {
       "launch_url": "http://localhost:3000",
