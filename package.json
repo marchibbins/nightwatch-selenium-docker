@@ -1,5 +1,5 @@
 {
-  "private": "nightwatch-selenium-docker",
+  "name": "nightwatch-selenium-docker",
   "author": "Marc Hibbins",
   "version": "0.1.0",
   "description": "Run Nightwatch tests with Selenium using Docker",
