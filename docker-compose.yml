@@ -1,0 +1,5 @@
+selenium:
+  image: selenium/standalone-chrome
+  net: "host"
+  ports:
+    - "4444:4444"
